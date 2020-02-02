@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "600B5E06-5531-4A74-85BF-4718591C4113"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "419A5837-572D-423C-BE7E-D90152428419"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "asd/priceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "419A5837-572D-423C-BE7E-D90152428419 - 2fabe6d1cd2547d6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asd.priceViewController.price.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "asd"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Desktop/asd/asd/priceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "419A5837-572D-423C-BE7E-D90152428419 - bc82c82a371868da"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asd.priceViewController.price.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "asd"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Desktop/asd/asd/priceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "419A5837-572D-423C-BE7E-D90152428419 - f4b5e9c1a29bed95"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asd.priceViewController.price.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "asd"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Desktop/asd/asd/priceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "419A5837-572D-423C-BE7E-D90152428419 - 196e38a85ce5aebf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asd.priceViewController.price.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "asd"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Desktop/asd/asd/priceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "419A5837-572D-423C-BE7E-D90152428419 - 78936c573683ed27"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asd.priceViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; asd.priceViewController"
+                  moduleName = "asd"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Desktop/asd/asd/priceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "419A5837-572D-423C-BE7E-D90152428419 - 2267a134fd32fc1d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "asd.priceViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;asd.priceViewController&gt;"
+                  moduleName = "asd"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Desktop/asd/asd/priceViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

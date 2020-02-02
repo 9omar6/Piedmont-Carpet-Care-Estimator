@@ -12,7 +12,7 @@ Price calculator for carpet cleaning company
 -     800 <=
 -     1000 <= 
 -     1400 >= 
-- Price Example
+- Price Example (cents per sq. ft)
 -     0.50
 -     0.40
 -     0.30

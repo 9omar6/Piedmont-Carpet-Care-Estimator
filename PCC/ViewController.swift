@@ -288,14 +288,3 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     }
     
 }
-
-/**
- Piedmont Carpet Care Pricing
- cents p/sq. ft. 
- 0 - 250 0.476
- 251 - 500 0.318
- 501 - 800 0.24875
- 801 - 1000 0.239
- 1001 - 1400 0.21357143
- 1401+
- */
